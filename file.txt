@@ -1,0 +1,15 @@
+backend -> config,controller,middleware,models,routes,utils,app.js,server.js,node_modules,package-lock.json ,package.json
+
+config -> config.env
+
+controller -> order ,product,user controllers
+
+middleware -> auth.js,catchasyncError,error.js file
+
+models -> order ,product,user models
+
+routes -> order ,product,user routes
+
+utils -> apiFeatures,errorhandler,jwtToken,sendEmail
+
+
